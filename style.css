@@ -291,11 +291,7 @@ body {
     width: 45px;
 }
 
-.btn-1:hover {
-    background: #DC3545;
-    color: #fff;
-    border: 0;
-}
+
 
 .btn-2:hover {
     background: transparent;
