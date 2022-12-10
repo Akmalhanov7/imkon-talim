@@ -4,8 +4,7 @@ body{
     padding: 0;
     font-family:sans-serif;
     background: rgb(253, 30, 72);
-    background: linear-gradient(25deg, rgb(67, 30, 253) 20%, rgb(231, 30, 253) 100% );
-
+    background: linear-gradient(25deg, rgb(164, 30, 253) 20%, rgb(149, 30, 253) 100% );
 }
 
 .form-box{
