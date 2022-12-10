@@ -10,6 +10,7 @@
 
 body {
     background: url(https://kartinkin.net/uploads/posts/2021-04/thumbs/1617611736_31-p-fon-dlya-bannera-visokogo-kachestva-32.jpg);
+    background-position: center;
     background-attachment: fixed;
     background-size: cover;
     background-repeat: no-repeat;
